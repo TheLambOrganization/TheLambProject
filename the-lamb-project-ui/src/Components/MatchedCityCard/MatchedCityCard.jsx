@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import TinderCard from "react-tinder-card";
 import "./MatchedCityCard.css";
 import axios from "axios";
+import { Link, useParams } from "react-router-dom";
 
 const MatchedCityCard = ({
   swiped,
@@ -20,6 +21,7 @@ const MatchedCityCard = ({
   // const reverseCard = cityCard.reverse
   const characters = cityCard;
   const [houseVisible, setHouseVisible] = useState(true);
+  // const { city } = useParams();
 
   // const preferences = (object) => {
   //   for (let i = 0; i <= formData.lenght; i++) {
@@ -78,9 +80,11 @@ const MatchedCityCard = ({
                   style={{ backgroundImage: "url(" + character.images + ")" }}
                   className="card"
                 >
-                  <h3 className="NameTag">
-                    <center>{character.city + ", " + character.state}</center>
-                  </h3>
+                  <Link to={`/moreinformation/${character.city}`}>
+                    <h3 className="NameTag ">
+                      <center>{character.city + ", " + character.state}</center>
+                    </h3>
+                  </Link>
 
                   <h4 flex items-start>
                     <center>{character.hobby && formData.hobby}</center>
@@ -94,12 +98,18 @@ const MatchedCityCard = ({
             </>
           ))}
       </div>
-      <div className="tinder--buttons content-center	">
+      {/* <div className="tinder--buttons content-center	">
         <button id="nope" className="nope"></button>
         <button id="love">
           <i className="fa fa-heart heart"></i>
         </button>
-      </div>
+      </div> */}
+      <br></br>
+      <center>
+        <button className="border-solid border-2 border-sky-500">
+          More Info
+        </button>
+      </center>
       <button onClick={() => swipe("left", cityCard)}>Left</button>
       <button onClick={() => swipe("right", cityCard)}>Right</button>
     </div>
