@@ -26,9 +26,10 @@ const Hero = () => {
       {/* z-10 determines the stacking order of elements since it is a higher z index, we ensure the text appears on top of the video background */}
       <div className="relative z-10 ">
         <h2 className="pb-3 text-8xl text-white">Your Travel Advisor</h2>
-        <h3 className="pb-3 text-5xl text-white">
+        <h3 className="pb-3 text-5xl  text-white">
           From Occupation to Exploration, Let Us Reveal Your Dream City!
         </h3>
+        <br></br>
 
         <button className=" bg-white hover:bg-[#E4FAEE] text-[#015239] text-2xl px-2 py-2 rounded-lg">
           <Link to="/register">Get Started</Link>

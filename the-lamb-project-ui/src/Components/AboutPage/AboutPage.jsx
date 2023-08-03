@@ -31,7 +31,7 @@ const AboutPage = () => {
       <h2 className="text-4xl font-bold mb-4 text-center">About Us!</h2>
 
       <p className="mt-4 p-5 text-2xl">
-        Our capstone pod aims to tackle the challenges associated with
+        LAMB aims to tackle the challenges associated with
         relocating to a different city or state. When individuals relocate, they
         often lack the necessary experience and familiarity with the new area to
         choose safe and suitable housing that aligns with their hobbies, values,
@@ -40,11 +40,11 @@ const AboutPage = () => {
         of finding suitable housing in an unfamiliar location.
       </p>
       <p className="mt-0 p-5 text-2xl">
-        To address these concerns, Project LAMB will offer personalized city
-        recommendations based on users' preferences and needs. It will provide
+        To address these concerns, LAMB offers personalized city
+        recommendations based on users' preferences and needs. LAMB provides
         information about the city's safety, amenities, public transportation,
         and local attractions. By focusing on the needs of young adults
-        relocating for work, our capstone project seeks to provide valuable
+        relocating for work, our web applicayion seeks to provide valuable
         assistance and alleviate the stress associated with the relocation
         process. We aspire to empower individuals in making informed decisions
         and ensuring a smoother transition to their new living environment.
