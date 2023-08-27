@@ -1,8 +1,12 @@
 # TheLambProject
 
 
-<div>
-    <div style="position: relative; padding-bottom: 53.125%; height: 0;"><iframe src="https://www.loom.com/embed/4334e040b2934fd8bda5ce78861a5b78?sid=d32fd7ab-8176-419b-89f6-ed3a28253ce3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<a href="https://www.loom.com/share/4334e040b2934fd8bda5ce78861a5b78">
+   <p>Project video title</p>
+   <img style="max-width:300px;" src="LAMB | Your Travel Advisor - 24 August 2023 - Watch Video
+
+">
+</a>
 
 
 * **What does it do - **
