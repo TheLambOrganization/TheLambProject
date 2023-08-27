@@ -2,13 +2,7 @@
 
 
 <div>
-    <a href="https://www.loom.com/share/938dda2704454c6b95978ac003e2df5b">
-      <p>LAMB | Your Travel Advisor - 11 August 2023 - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/938dda2704454c6b95978ac003e2df5b">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/938dda2704454c6b95978ac003e2df5b-with-play.gif">
-    </a>
-  </div>
+    <div style="position: relative; padding-bottom: 53.125%; height: 0;"><iframe src="https://www.loom.com/embed/4334e040b2934fd8bda5ce78861a5b78?sid=d32fd7ab-8176-419b-89f6-ed3a28253ce3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 * **What does it do - **
