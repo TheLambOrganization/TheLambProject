@@ -2,10 +2,10 @@
 
 
 <div>
-    <a href="https://www.loom.com/share/938dda2704454c6b95978ac003e2df5b">
+    <a href="https://www.loom.com/share/4334e040b2934fd8bda5ce78861a5b78">
       <p>LAMB | Your Travel Advisor - 11 August 2023 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/938dda2704454c6b95978ac003e2df5b">
+    <a href="https://www.loom.com/share/4334e040b2934fd8bda5ce78861a5b78">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/938dda2704454c6b95978ac003e2df5b-with-play.gif">
     </a>
   </div>
